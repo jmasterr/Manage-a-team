@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.2",
+    "morgan": "^1.10.0"
+  },
+  "name": "manage-a-team",
+  "description": "this app will help a manager of a team to help him see his employers and be able to see there profile and info on them they will even have the option to fire them on it. i know this will be hard but i tried to pick something im comfortable with because last project i picked something super hard and i spent more time researching than practicing what i already know.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmasterr/Manage-a-team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmasterr/Manage-a-team/issues"
+  },
+  "homepage": "https://github.com/jmasterr/Manage-a-team#readme",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
