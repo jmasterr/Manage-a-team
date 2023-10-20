@@ -1,0 +1,126 @@
+body {
+    background-color: #979ea8;
+    font-family: 'Gabarito', sans-serif;
+    font-family: 'Major Mono Display', monospace;
+    font-family: 'Roboto Mono', monospace;
+}
+header {
+    text-align: center;
+    margin: 0px;
+    border: 1px solid black;
+    background-color: #6db1ff;
+    height: 150px;
+    margin-bottom: 40px;
+}
+nav {
+    margin-left: 500px;
+    margin-right: 600px;
+}
+li {
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    justify-content:space-around;
+}
+#home {
+    border: 1px solid black;
+    padding: 8px 30px 8px 30px;
+    border-radius: 5px;
+    background-image: url('https://m.media-amazon.com/images/I/712TxwKC02L._AC_UF894,1000_QL80_.jpg');
+    color: white;
+    background-size: cover;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 100px;
+}
+#home:hover {
+    opacity: .8;
+}
+#create {
+    border: 1px solid black;
+    padding: 8px 30px 8px 30px;
+    border-radius: 5px;
+    background-image: url('https://m.media-amazon.com/images/I/712TxwKC02L._AC_UF894,1000_QL80_.jpg');
+    color: white;
+    background-size: cover;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+}
+#create:hover {
+    opacity: .8;
+}
+footer {
+    background-color: rgba(109,177,255,.7);
+    border: 1px solid black;
+    width: 100%;
+    height: 60px;
+    left: 0;
+    position: relative;
+    bottom: 0;
+    text-align: center;
+}
+#footer-create {
+    position: fixed;
+    bottom: 0;
+}
+img {
+    height: 200px;
+    width: 220px;
+    border: 2px solid black;
+}
+.employee {
+    width: 32%;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    box-sizing: border-box;
+    padding: 10px;
+    border: 5px solid #ccc;
+    text-align: center;
+    background-color: #6db1ff;
+}
+button {
+    cursor: pointer;
+}
+p {
+    font-weight: bold;
+    text-shadow: 1px 1px 5px black;
+}
+#create-btn {
+    border: 1px solid black;
+    padding: 8px 30px 8px 30px;
+    border-radius: 5px;
+    background-image: url('https://m.media-amazon.com/images/I/712TxwKC02L._AC_UF894,1000_QL80_.jpg');
+    color: white;
+    background-size: cover;
+    font-weight: bold;
+}
+#create-body {
+    font-family: 'Tilt Neon', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    border: 1px solid black;
+    width: 400px;
+    margin-left: 725px;
+    border-radius: 25px;
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/265/76/desktop-wallpaper-colors-blue-gray-backgrounds-blue-grey-aesthetic-thumbnail.jpg');
+    background-size: cover;
+}
+.input {
+    text-align: center;
+    margin: 10px;
+}
+@media (max-width: 768px) {
+    .employee {
+        width: 100%;
+    }
+}
