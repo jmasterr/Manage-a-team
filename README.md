@@ -6,10 +6,6 @@
 <p>this app will help a manager of a team to help him see his employers and be able to see there profile and info on them they will even have the option to fire them on it. i know this will be hard but i tried to pick something im comfortable with because last project i picked something super hard and i spent more time researching than practicing what i already know.</P>
 
 <h3>Screenshots</h3>
-<img src="Screenshot from 2023-10-13 10-33-55.png">
-<img src="Screenshot from 2023-10-13 10-43-00.png">
-<img src="Screenshot from 2023-10-13 10-45-22.png">
-<img src="Screenshot from 2023-10-13 14-24-50.png">
 <img src="Screenshot from 2023-10-13 14-13-21.png">
 
 <h3>UserStories</h3>
